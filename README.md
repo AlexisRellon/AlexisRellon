@@ -1,4 +1,4 @@
-# Hi there, I'm Alexis John Rellon @AlexisRellon👋
+# Hi there, I'm Alexis John Rellon [@AlexisRellon](https://github.com/AlexisRellon)👋
 
 I'm a Computer Science student who loves to create and learn new things. I have experience in Java, Python, HTML, CSS, and Javascript. I use IntelliJ IDEA, PyCharm, Photoshop, Illustrator, and Figma for my projects.
 
