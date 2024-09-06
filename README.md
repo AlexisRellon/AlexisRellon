@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm Alexis Rellon from Philippines<br><br>- 💻 I’m a Computer Science Student<br>- 📚 I'm currently learning Kotlin and Figma<br>- ⚡ In my free time I solve coding problems<br>- 🔭 Currently Working on <a href="https://github.com/AlexisRellon/Password-Generator/tree/master">Password Generator</a></p>
+<p align="left">I'm Alexis Rellon from Philippines<br><br>- 💻 I’m a Computer Science Student<br>- 📚 I'm currently learning Kotlin and Figma<br>- ⚡ In my free time I solve coding problems<br>- 🔭 Currently Working on None</p>
 
 ###
 
